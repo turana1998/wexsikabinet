@@ -1560,8 +1560,8 @@ h2:before {
 }
 
 .baglamalarisecin {
-    width: 430px;
-    height: 244px;
+    /* width: 430px;
+    height: 244px; */
     background: #FFFFFF;
     /* Shadow */
 
@@ -1649,7 +1649,7 @@ h2:before {
 
 .sifarisucunolke {
     width: 202px;
-    height: 12px;
+    /* height: 12px; */
     font-family: Kanit !important;
     font-style: normal;
     font-weight: normal;
